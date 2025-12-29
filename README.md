@@ -1,7 +1,7 @@
 # README
 In this project, I show how to create nice maps form [OpenStreetMap](https://www.openstreetmap.org/) data.
 
-![image](results\helsinki.png)
+![image](results/helsinki.png)
 
 ## Dependencies
 This Project requires [Osmium](https://osmcode.org/osmium-tool/) for cropping the OSM .pbf files:
