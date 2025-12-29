@@ -16,7 +16,7 @@ and a few Python Packages:
 pip install pyrosm
 pip install shapely
 pip install pandas
-pip isntall numpy
+pip install numpy
 pip install matplotlib
 ```
 
